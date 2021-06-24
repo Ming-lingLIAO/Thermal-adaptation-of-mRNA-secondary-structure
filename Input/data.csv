@@ -1,0 +1,26 @@
+species,Temperature,Energy,sort,Class,Family,Genus,Tidal.height,Species,lnReAct
+C.brunne,37,-300.7,15,Gastropoda,Tegulidae,Chlorostoma,Low shore,C. brunnea,-0.0166
+C.funebr,37,-304.1,12,Gastropoda,Tegulidae,Chlorostoma,Middle shore,C. funebralis,-0.0104
+C.monter,37,-299.5,19,Gastropoda,Tegulidae,Chlorostoma,Low shore,C. montereyi,-0.0239
+C.rugosa,37,-302.1,10,Gastropoda,Tegulidae,Chlorostoma,Middle shore,C. rugosa,-0.0089
+E.malacc,37,-324,3,Gastropoda,Littorinidae,Echinolittorina,High shore,E. malaccana,-9.00E-04
+E.radiat,37,-324,2,Gastropoda,Littorinidae,Echinolittorina,High shore,E. radiata,-7.00E-04
+H.discus,37,-289.5,24,Gastropoda,Haliotidae,Haliotis,Low shore,H. discus hannai,-0.1522
+H.divers,37,-291.9,23,Gastropoda,Haliotidae,Haliotis,Low shore,H. diversicolor,-0.0667
+H.rufesc,37,-292.6,17,Gastropoda,Haliotidae,Haliotis,Low shore,H. rufescens,-0.022
+L.austro,37,-236.4,11,Gastropoda,Lottiidae,Lottia,High shore,L. austrodigitalis,-0.0098
+L.digita,37,-237,14,Gastropoda,Lottiidae,Lottia,High shore,L. digitalis,-0.0126
+L.ellipt,37,-277.2,25,Bivalvia,Laternulidae,Laternula,Low shore,L. elliptica,-0.2296
+L.gigant,37,-258.3,9,Gastropoda,Lottiidae,Lottia,High shore,L. gigantea,-0.0059
+L.keenae,37,-326.5,6,Gastropoda,Littorinidae,Littorina,High shore,L. keenae,-0.0033
+L.pelta,37,-233.2,18,Gastropoda,Lottiidae,Lottia,Low shore,L. pelta,-0.0229
+L.scabra,37,-249.85,13,Gastropoda,Lottiidae,Lottia,High shore,L. scabra,-0.0124
+L.scutul,37,-326.6,7,Gastropoda,Littorinidae,Littorina,High shore,L. scutulata,-0.0043
+L.scutum,37,-236.75,16,Gastropoda,Lottiidae,Lottia,Middle shore,L. scutum,-0.0203
+M.califo,37,-246.8,21,Bivalvia,Mytilidae,Mytilus,Middle shore,M. californianus,-0.0417
+M.gallop,37,-236.2125,22,Bivalvia,Mytilidae,Mytilus,Middle shore,M. galloprovincialis,-0.0602
+M.trossu,37,-234.6625,20,Bivalvia,Mytilidae,Mytilus,Middle shore,M. trossulus,-0.0395
+N.albici,37,-377.5,4,Gastropoda,Neritidae,Nerita,Middle shore,N. albicilla,-0.001
+N.fuscov,37,-252.8,5,Gastropoda,Lottiidae,Nipponacmea,Middle shore,N. fuscoviridis,-0.0028
+N.radula,37,-256.3,8,Gastropoda,Lottiidae,Nipponacmea,Middle shore,N. radula,-0.0054
+N.yoldii,37,-353.6,1,Gastropoda,Neritidae,Nerita,Middle shore,N. yoldii,-4.00E-04
